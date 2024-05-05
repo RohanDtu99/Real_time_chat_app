@@ -2,9 +2,9 @@
 
 ChatNex is chat application build with the power of MERN Stack. You can find the Demo [here](https://www.youtube.com/watch?v=b3D31oRsDKU)
 
-![login page](./images/chatNex_login.png)
+![login page](./images/snappy_login.png)
 
-![home page](./images/chatNex.png)
+![home page](./images/snappy.png)
 
 ## Installation Guide
 
